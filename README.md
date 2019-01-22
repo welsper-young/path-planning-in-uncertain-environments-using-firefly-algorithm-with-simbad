@@ -11,3 +11,5 @@ A Simple Project of Course "Intelligent Robot Technology" using Firefly Algorith
 <img src="imgs/illustrate4.gif"></img>
 <h4>Environment 5</h4>
 <img src="imgs/illustrate5.gif"></img>
+<h3>Reference</h3>
+<div><a href="https://www.sciencedirect.com/science/article/pii/S2214914718300333">"Path planning in uncertain environment by using firefly algorithm"</a><div>
