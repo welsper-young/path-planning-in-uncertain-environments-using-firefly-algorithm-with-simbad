@@ -1,5 +1,4 @@
 # path-planning-in-uncertain-environments-using-simbad
-A Demo Project of Course "Intelligent Robot Technology" using Firefly Algorithm.
 <h3>Demo</h3>
 <h4>Environment 1</h4>
 <img src="imgs/illustrate1.gif"></img>
